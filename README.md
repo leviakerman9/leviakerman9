@@ -1,15 +1,17 @@
-<p align="center">#Hello 👋, I'm Aditya</p> 
+<p align="center">Hello 👋, I'm Aditya</p> 
+
 ---
 Software Developer | Full Stack | Web3 | AI
 
 About Me
--💻 Working as a Software Developer
--🌐 Focused on Full Stack & Web3 Development
--⛓️ Building with Smart Contracts & Blockchain Systems
--🤖 Currently exploring AI + Automation + DevOps
--⚡ experimenting with new tech
+- 💻 Working as a Software Developer
+- 🌐 Focused on Full Stack & Web3 Development
+- ⛓️ Building with Smart Contracts & Blockchain Systems
+- 🤖 Currently exploring AI + Automation + DevOps
+- ⚡ experimenting with new tech
 
 🛠️ Tech Stack
+
 ---
 💻 Languages:
 
@@ -20,4 +22,5 @@ About Me
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ⚙️ Frameworks & Tools
+
 Hardhat, Web3.js / Ethers.js, Go-Ethereum, Flask / FastAPI, Gin, React, Android SDK
