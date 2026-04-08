@@ -3,11 +3,11 @@
 Software Developer | Full Stack | Web3 | AI
 
 About Me
-💻 Working as a Software Developer
-🌐 Focused on Full Stack & Web3 Development
-⛓️ Building with Smart Contracts & Blockchain Systems
-🤖 Currently exploring AI + Automation + DevOps
-⚡ experimenting with new tech
+-💻 Working as a Software Developer
+-🌐 Focused on Full Stack & Web3 Development
+-⛓️ Building with Smart Contracts & Blockchain Systems
+-🤖 Currently exploring AI + Automation + DevOps
+-⚡ experimenting with new tech
 
 🛠️ Tech Stack
 ---
